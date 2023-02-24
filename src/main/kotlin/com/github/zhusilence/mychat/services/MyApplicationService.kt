@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zhusilence.mychat.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zhusilence.mychat.MyBundle
 
 class MyApplicationService {
 
